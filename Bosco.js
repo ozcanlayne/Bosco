@@ -872,7 +872,7 @@ const ftrol = {
 				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
 				bosco.updatePresence(from, Presence.composing)
 				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('Link terdeteksi, Auto kick!')
+				reply('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Rivality')
 			    bosco.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
 			}
 			}
